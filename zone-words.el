@@ -12,7 +12,7 @@
 (defvar zone-words-top-margin 2)
 (defvar zone-words-left-margin 5)
 (defvar zone-words-word-definition-margin 1)
-(defvar zone-words-word-pause 10)
+(defvar zone-words-word-pause 30)
 (defvar zone-words--word-lookup-func nil)
 (defvar zone-words-word-word-wrap 75)
 
